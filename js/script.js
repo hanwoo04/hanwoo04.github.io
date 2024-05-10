@@ -21,25 +21,26 @@ function stampImage1(boxId) {
 
 function stampImage2(boxId) {
     var box = document.getElementById(boxId);
-    box.innerHTML = '<img src="../images/oldtrafford.png" alt="Stamped Image" style="width: 100px; height: 100px;">';
+    box.innerHTML = '<img src="../images/ManchesterCity.png" alt="Stamped Image" style="width: 100px; height: 100px;">';
 }
 
 function stampImage3(boxId) {
     var box = document.getElementById(boxId);
-    box.innerHTML = '<img src="../images/oldtrafford.png" alt="Stamped Image" style="width: 100px; height: 100px;">';
+    box.innerHTML = '<img src="../images/BoltonWanderers.png" alt="Stamped Image" style="width: 100px; height: 100px;">';
 }
 
 function stampImage4(boxId) {
     var box = document.getElementById(boxId);
-    box.innerHTML = '<img src="../images/oldtrafford.png" alt="Stamped Image" style="width: 100px; height: 100px;">';
+    box.innerHTML = '<img src="../images/WiganAthletic.png" alt="Stamped Image" style="width: 100px; height: 100px;">';
 }
 
 function stampImage5(boxId) {
     var box = document.getElementById(boxId);
-    box.innerHTML = '<img src="../images/oldtrafford.png" alt="Stamped Image" style="width: 100px; height: 100px;">';
+    box.innerHTML = '<img src="../images/SalfordCity.png" alt="Stamped Image" style="width: 80px; height: 128px;">';
 }
 
 function stampImage6(boxId) {
     var box = document.getElementById(boxId);
-    box.innerHTML = '<img src="../images/oldtrafford.png" alt="Stamped Image" style="width: 100px; height: 100px;">';
+    box.innerHTML = '<img src="../images/FCUnitedofManchester.png" alt="Stamped Image" style="width: 100px; height: 100px;">';
 }
+
