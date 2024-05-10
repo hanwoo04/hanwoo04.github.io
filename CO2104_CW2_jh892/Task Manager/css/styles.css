@@ -1,0 +1,33 @@
+body {
+    background-image: url('../images/oldtrafford.png');
+    background-size: cover;
+    background-position: center;    
+}
+
+.navbar-brand {
+    font-family: "Copperplate", fantasy;
+}
+
+#navbarNav {
+    font-family: "Copperplate", fantasy;
+}
+
+#category {
+    background-color: lightblue;
+    font-family: "Copperplate", fantasy;
+}
+
+#signupForm {
+    color: skyblue;
+    font-family: "Copperplate", fantasy;
+}
+
+#loginForm {
+    color: skyblue;
+    font-family: "Copperplate", fantasy;
+}
+
+#sbtitle{
+    color:skyblue;
+    font-family: "Copperplate", fantasy;
+}
