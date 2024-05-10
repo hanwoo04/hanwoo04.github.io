@@ -1,0 +1,76 @@
+body {
+    background-image: url('../images/oldtrafford.png');
+    background-size: cover;
+    background-position: center;    
+}
+
+.navbar-brand {
+    font-family: "Copperplate", fantasy;
+}
+
+#navbarNav {
+    font-family: "Copperplate", fantasy;
+}
+
+#category1 {
+    background-image: url('../images/tour.png');
+    background-size: cover;
+    background-position: center;
+    font-family: "Copperplate", fantasy;
+}
+
+#category2 {
+    background-image: url('../images/manchester.png');
+    background-size: cover;
+    background-position: center;
+    font-family: "Copperplate", fantasy;
+}
+
+#category3 {
+    background-image: url('../images/EthihadStadium.png');
+    background-size: cover;
+    background-position: center;
+    font-family: "Copperplate", fantasy;
+}
+
+#signupForm {
+    color: skyblue;
+    font-family: "Copperplate", fantasy;
+}
+
+#loginForm {
+    color: skyblue;
+    font-family: "Copperplate", fantasy;
+}
+
+#sbtitle{
+    color:skyblue;
+    font-family: "Copperplate", fantasy;
+}
+
+.share-btn:focus,
+.share-btn:hover {
+text-decoration: none;
+opacity: 0.8;
+}
+
+.share-btn img {
+    width: 70px;
+    height: 70px;
+}
+
+.share-btn:active {
+color: #e2e2e2;
+}
+
+
+.share-instruction-box {
+    background-color: gold;
+    padding: 10px 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 18px;
+    color: skyblue;
+    font-family: "Copperplate", fantasy;
+    display: inline-block;
+}
